@@ -6,6 +6,7 @@ public class HelloBranching {
 		// TODO Auto-generated method stub
 			System.out.println("changes 1");
 			System.out.println("changes 2");
+			System.out.println("changes 3");
 	}
 
 }
